@@ -35,7 +35,6 @@
 # presses('How R u 2day') # 23
 # presses("i 8 2 Many mandazi 4 brekky") # 55
 
-# Bonus: Try to avoid hard-coding the number of button presses for each letter!
 
 
 def presses(phrase)
